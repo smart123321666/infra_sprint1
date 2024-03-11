@@ -1,0 +1,6 @@
+IP: 158.160.68.51;
+name_taski: https://myhometaski.zapto.org/;
+name_kittygram: https://yandexinfra.ddns.net/;
+login: admin;
+password: 123321;
+
